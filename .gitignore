@@ -21,3 +21,9 @@ database.db
 # OS files
 .DS_Store
 Thumbs.db
+
+node_modules/
+.env
+backend/euphoric.db
+backend/uploads/
+backend/node_modules/
